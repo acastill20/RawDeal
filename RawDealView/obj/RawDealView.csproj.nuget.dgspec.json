@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDealView\\RawDealView.csproj": {}
+    "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDealView\\RawDealView.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDealView\\RawDealView.csproj": {
+    "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDealView\\RawDealView.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDealView\\RawDealView.csproj",
+        "projectUniqueName": "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDealView\\RawDealView.csproj",
         "projectName": "RawDealView",
-        "projectPath": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDealView\\RawDealView.csproj",
-        "packagesPath": "C:\\Users\\acast\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDealView\\obj\\",
+        "projectPath": "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDealView\\RawDealView.csproj",
+        "packagesPath": "C:\\Users\\aicas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDealView\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acast\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aicas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

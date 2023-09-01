@@ -1,3 +1,5 @@
+using System.Data;
+
 namespace RawDeal;
 
 public enum Logo
@@ -55,15 +57,6 @@ public class Deck
         
         foreach (var card in _cards)
         {
-            //Cuarta Regla
-            foreach (string subType in card.SubTypes)
-            {
-                if (Enum.IsDefined(typeof(Logo), subType) && _superstar.Logo != subType)
-                {
-                    return false;
-                }
-            }
-            
             //Tercera Regla
             if (card.SubTypes.Contains("Heel"))
             {
@@ -81,30 +74,37 @@ public class Deck
             
             //Segunda Regla
             List<Card> repeatedCards = _cards.FindAll(x => x.Title == card.Title);
+            int numberRepeatedCards = repeatedCards.Count();
             bool repeatedValid = true;
-            if (repeatedCards.Count > 1)
-            {
-                if (repeatedCards.Count > 3)
-                {
-                    repeatedValid = false;
-                }
-                Card cardAnalized = cardsDict[card.Title];
-                foreach (var subType in cardAnalized.SubTypes)
-                {
-                    if (subType == "Unique")
-                    {
-                        return false;
-                    }
-                    else if (subType == "SetUp")
-                    {
-                        repeatedValid = true;
-                    }
-                }
 
-                if (repeatedValid == false)
+            if (numberRepeatedCards > 3)
+            {
+                repeatedValid = false;
+            }
+            
+            foreach (string subType in card.SubTypes)
+            {
+                //Segunda Regla
+                if (subType == "Unique" && numberRepeatedCards > 1)
                 {
                     return false;
                 }
+
+                if (subType == "SetUp")
+                {
+                    repeatedValid = true;
+                }
+                
+                //Cuarta Regla
+                if (Enum.IsDefined(typeof(Logo), subType) && _superstar.Logo != subType)
+                {
+                    return false;
+                }
+            }
+
+            if (repeatedValid == false)
+            {
+                return false;
             }
         }
         return true;

@@ -6140,19 +6140,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\acast\\.nuget\\packages\\": {}
+    "C:\\Users\\aicas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDeal.Tests\\RawDeal.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDeal.Tests\\RawDeal.Tests.csproj",
       "projectName": "RawDeal.Tests",
-      "projectPath": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDeal.Tests\\RawDeal.Tests.csproj",
-      "packagesPath": "C:\\Users\\acast\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDeal.Tests\\obj\\",
+      "projectPath": "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDeal.Tests\\RawDeal.Tests.csproj",
+      "packagesPath": "C:\\Users\\aicas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDeal.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\acast\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\aicas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -6164,11 +6164,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDealView\\RawDealView.csproj": {
-              "projectPath": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDealView\\RawDealView.csproj"
+            "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDealView\\RawDealView.csproj": {
+              "projectPath": "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDealView\\RawDealView.csproj"
             },
-            "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDeal\\RawDeal.csproj": {
-              "projectPath": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDeal\\RawDeal.csproj"
+            "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDeal\\RawDeal.csproj": {
+              "projectPath": "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDeal\\RawDeal.csproj"
             }
           }
         }

@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "i7UNa8rk9R+nO3ueToZky+nGk66MjpLX1OIvRmOfCZLw4MqV04B4Zi1bsVAy0s2m8bjKqsLvjoU0ahGrBQksSw==",
+  "dgSpecHash": "CZ1768x2Q9EFb8ouBzoA+kCRDSVE5Dfx5yBGj21Lg4Jcz8kJ2+jRccLziLXnTX2dG669lJdO2HScNizydU3BHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDeal\\RawDeal.csproj",
+  "projectFilePath": "C:\\Users\\aicas\\RiderProjects\\RawDeal\\RawDeal\\RawDeal.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\acast\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\acast\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\acast\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
-    "C:\\Users\\acast\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+    "C:\\Users\\aicas\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\aicas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\aicas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\aicas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
   ],
   "logs": []
 }
