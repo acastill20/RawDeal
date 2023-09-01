@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzF+fj9uwAqLnqxVyHq4seb8chGvV9LFP1pXTJ4wLXqs9LiX+X84FJHT8SX4u+aUgWVaMvnBg/pseoU7RUR0Dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acast\\AppData\\Local\\Temp\\Rar$DRa33888.8031\\RawDeal\\RawDeal\\RawDealView\\RawDealView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acast\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\acast\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\acast\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
